@@ -1,4 +1,4 @@
-import { getCharacterProperties, getCharacters } from '../Characters'
+import { getCharacterProperties, getCharacters } from '../js/Characters'
 import assert from 'assert'
 
 describe('Characters', function(){
